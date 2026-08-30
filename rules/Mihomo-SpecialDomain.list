@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,digimon.net
+
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,media-rockstargames-com.akamaized.net
 DOMAIN,videos-rockstargames-com.akamaized.net
@@ -6,3 +7,7 @@ DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rockstarnorth.com
 DOMAIN-SUFFIX,rsg.ms
 DOMAIN-SUFFIX,rsg.sc
+
+DOMAIN-SUFFIX,deviantart.com
+DOMAIN-SUFFIX,deviantart.net
+DOMAIN-SUFFIX,da-files.com
