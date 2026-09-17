@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "www.carpetpacific.com"
+      ],
+      "domain_suffix": [
+        "carpetpacific.com"
+      ]
+    }
+  ]
+}
