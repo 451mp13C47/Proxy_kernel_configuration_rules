@@ -3,10 +3,12 @@
   "rules": [
     {
       "domain": [
-        "www.carpetpacific.com"
+        "www.carpetpacific.com",
+        "sub.guga.sbs"
       ],
       "domain_suffix": [
-        "carpetpacific.com"
+        "carpetpacific.com",
+        "guga.sbs"
       ]
     }
   ]
